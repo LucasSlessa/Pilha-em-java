@@ -1,5 +1,8 @@
 # Verificador de Palíndromo com Pilha em Java
 
+<img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
+
 Este é um programa simples em Java que verifica se uma string é um palíndromo. O programa utiliza uma pilha para inverter a string e depois compara os caracteres para determinar se é um palíndromo.
 
 ## Requisitos
